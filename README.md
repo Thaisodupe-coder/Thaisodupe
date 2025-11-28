@@ -1,5 +1,5 @@
+## Thaisodupe
 
-##Thaisodupe
 Hello, I'm Thaisodupe. Thanks for visiting my GitHub!
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nguyenthai28_) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thaisodupee) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Thaisodupe) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thai51310179@gmail.com) 
